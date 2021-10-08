@@ -1,28 +1,141 @@
+Lakshmanachari Panuganti
+Infrastructure Automation Engineer
++91 9014605443 | ntds.dit@outlook.com
+Senior Analyst
+
+ 				
 Career Objective: 
 To be a part of an organization, where I can utilize my skills & knowledge and learn new technical things for organization growth and for my career growth.
 
 Professional Summary
 
-	An enthusiastic PowerShell developer experienced in Infrastructure automation.
-	Having strong experience in PowerShell, I contributed end to end automation for various products as an individual and as team member.
-	Good experience in automating Active Directory, Azure, SCDPM, Veeam, VMware and integrating with ServiceNow.
-	Working in an environment that has embraced with DevOps approach.
-	Azure boards, Sprints, User stories.
-	Git, Repositories, Branches, merge, push, pull, commit etc.
-	Developed PowerShell modules for the various products based on the API documentation provided by vendor.
-	Developed and maintained fully automated account provision and de-provisioning solution using Windows PowerShell, simplifying the employee off-boarding process, and minimizing the risk associated with orphaned user accounts.
-	Created PowerShell scripts to constantly perform the health checks of System Center Data Protection Manager and notifying the team in the event of a problem.
-	Designed and automated a workflow to provide the automatic resolution for various alerts in System Center Data Protection Manager.
-	Significantly reduced the number of calls during the weekends and non-business hours by providing self-service backup and restore for the SQL databases and virtual machines to the customers. 
-	Developed automation to provide an accurate service access report and audit report to each application team.
-	Implemented scalable automation using Windows PowerShell for creating the OU structure for Applications and delegating the access to the App owners on their AD objects.
-	Developed scripts with Windows PowerShell to automate the following things -
-	VM builds in VMware vSphere and Azure.
-	Accounts provision, Server provision, App OU provision, Support team provision.
-	Report backup data in SCDPM, Veeam, Azure backups.
-	Report replication health data in Double Take (Carbonite) and Azure Site Recovery.
-	Providing the auto resolutions for various alerts in SCDPM.
-	Migration to DPM 2012 to DPM 2016. 
+	An enthusiastic PowerShell developer experienced in Infrastructure automation.
+	Having strong experience in PowerShell, I contributed end to end automation for various products as an individual and as team member.
+	Good experience in automating Active Directory, Azure, SCDPM, Veeam, VMware and integrating with ServiceNow.
+	Working in an environment that has embraced with DevOps approach.
+   		Azure boards, Sprints, User stories.
+		Git, Repositories, Branches, merge, push, pull, commit etc.
+	Developed PowerShell modules for the various products based on the API documentation provided by vendor.
+	Developed and maintained fully automated account provision and de-provisioning solution using Windows PowerShell, simplifying the employee off-boarding process, and minimizing the risk associated with orphaned user accounts.
+	Created PowerShell scripts to constantly perform the health checks of System Center Data Protection Manager and notifying the team in the event of a problem.
+	Designed and automated a workflow to provide the automatic resolution for various alerts in System Center Data Protection Manager.
+	Significantly reduced the number of calls during the weekends and non-business hours by providing self-service backup and restore for the SQL databases and virtual machines to the customers. 
+	Developed automation to provide an accurate service access report and audit report to each application team.
+	Implemented scalable automation using Windows PowerShell for creating the OU structure for Applications and delegating the access to the App owners on their AD objects.
+	Developed scripts with Windows PowerShell to automate the following things -
+		VM builds in VMware vSphere and Azure.
+		Accounts provision, Server provision, App OU provision, Support team provision.
+		Report backup data in SCDPM, Veeam, Azure backups.
+		Report replication health data in Double Take (Carbonite) and Azure Site Recovery.
+		Providing the auto resolutions for various alerts in SCDPM.
+		Migration to DPM 2012 to DPM 2016. 
 
-	Good experience in using Thycotic secret server and Thycotic secret server’s API.
-	Coordinate with Application teams to gathers the requirements to develop the automation for them.
+	Good experience in using Thycotic secret server and Thycotic secret server’s API.
+	Coordinate with Application teams to gathers the requirements to develop the automation for them.
+
+
+Competency
+
+	Active Directory Domain Service, DHCP, WDS, WSUS.
+	Azure Automation.
+	ServiceNow API integration.
+	PAM - Thycotic Secret Server.
+	Database – hands on experience in Microsoft SQL server intermediate level.
+	Automation tools - advanced in PowerShell and basic in shell scripting.
+	Azure DevOps - Azure boards, sprints, repositories, branching, merging, pull requests etc.
+	Ticketing tools - ServiceNow and WebTrac.
+
+	Experience in using Thycotic secret server in automation.
+		Creating / deleting secrets via PowerShell.
+		Modifying the existed secrets via PowerShell.
+		Retrieving the secret values via PowerShell for using in various automations.
+
+	Good experience in using the ServiceNow API.
+		Creating incidents and requests via PowerShell.
+		Updating comments to the incidents and requests.
+		Handling multiple SCTASKs for a request.
+		Reading the ServiceNow catalog item variable for using in various automations.
+
+
+Education
+
+	MSc (Computer Science) from BBCIT affiliated to Osmania University, Hyderabad.
+	BSc (Computer Science) from GDC affiliated to Osmania University, Siddipet.
+
+
+Achievement:
+
+Saved around 250 hours of manual effort per month for all the projects.
+PowerShell trainer for LPD program.
+Received few applause awards and many spot awards.
+ 
+Work Experience
+
+Deloitte USI
+Senior Analyst | July 2017 – Present 
+
+Projects handled
+System Center Data Protection Manager | PowerShell | Saves around 120 hours per month
+	On-demand Self-service backup.
+	Auto-protect production/ stage HyperV VMs.
+	Auto-protect production/ stage SQL servers.
+	Auto-fix DPM alerts.
+	DPM reporting.
+
+Veeam | Automation with PowerShell 
+	Veeam PowerShell module.
+	Veeam backup reporting.
+	Veeam repository reporting.
+
+Active Directory | Automation with PowerShell
+	Application provision in the active directory via the ServiceNow form.
+	Server provision in active directory.
+	Support team provision.
+	AD Reporting: a report that gets all the AD objects and its permissions from all the domains from all the OUs that we manage. 
+
+Azure | Automation with PowerShell
+	A report that contains the protected VMs. Last backup along with application team CMDB data.
+	A report that contains the protected ASR protection status along with application team CMDB data.
+	Automating azure VMs built via ServiceNow form
+	Compliance VMs (Active VMs vs Retired VMs in CMDB)
+
+VROps automation | VMware | Automation with PowerShell
+	Automated custom group creation in vROps as per vCenter Tags.
+	Automated dashboard creation in vROps as per vCenter Tags.
+	Automated groups creation obtaining from Active Directory.
+	Share the dashboard with the associated team.
+
+
+Cheric Information Network Technologies Pvt. Ltd.
+IT Administrator | August 2012 to till July 2017
+Roles and Skills:
+
+	Working on AD DS, DHCP, WDS, WSUS and SEPM servers.
+	Good knowledge on PowerShell in automating windows tasks.
+	Troubleshooting LAN, IP related issues and user login issues.
+	Software deployment in Windows client machines as per the project requirement.
+	Installation of device drivers & hardware components.
+	Group Policy Management and assets management and audit.
+	Creating network folders and configure Access Control List. 
+	Responsible for updating MS patches and Antivirus updates across all servers and clients. 
+	Responsible for applying the patches and upgrades to ‘BlueCherry’ servers on destination environment through RDP, LogMeIn and different types of VPN.
+	WDS for image deployment for new workstations.
+	Knowledge on creating captured image through sysprep tool & pushing into new workstations.
+	Creating virtual machines in Hyper V server and install applications as per project needs. 
+	Coordinate and manage relationship with HP vendors in server’s problem resolutions.
+	Creating page files in order to increase the virtual memory size.
+	Enough knowledge on installation and configuration of Windows server 2008R2 and 2012R2
+	Good understanding on FSMO roles.
+	Knowledge on authoritative & non-authoritative restoration.
+	Basic understanding on how SEPM works. 
+	Knowledge on backup methods such as incremental, deferential and full backup.
+	Knowledge on configuring iLO in order to troubleshoot the HP servers remotely.
+	Knowledge on different RAID levels (RAID0, RAID1, RAID5 and RAID10)
+	Understanding on blue screen errors and crash dump scenarios.
+	Basic knowledge on SQL server querying (Backup & restore, attaching databases, moving tables from one database to another etc).
+	Hands on set up SQL Maintenance Plan using Ola Hallengren SQL script.
+	Auditing AD users and computers using PowerShell scripts & VBScripts and generating the reports.
+	Creating scheduled tasks and troubleshooting Windows Task scheduler.
+	Creating real-time services through command prompt and PowerShell.
+	Understanding on Remote Desktop Host Server configuration and installing User CALs, Device CALs on RD License server.
+
