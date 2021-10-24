@@ -85,3 +85,6 @@ function ConvertWordTo-PDF {
     Invoke-Item $DestinationFolder
     $word.Quit()
 }
+
+
+ConvertWordTo-PDF -SourceFolder $PSScriptRoot -DestinationFolder $PSScriptRoot -Verbose
