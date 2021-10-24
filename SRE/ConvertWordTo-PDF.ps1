@@ -88,3 +88,6 @@ function ConvertWordTo-PDF {
 
 
 ConvertWordTo-PDF -SourceFolder $PSScriptRoot -DestinationFolder $PSScriptRoot -Verbose
+
+$pdf = Get-ChildItem -Path $PSScriptRoot | where{$_.Extension -eq '.pdf'} 
+Rename-Item -Path $pdf.FullName -NewName 'Lakshmanachari__PowerShell_Developer.pdf'
